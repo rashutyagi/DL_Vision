@@ -3,9 +3,13 @@
 Submitted by - Rashu Tyagi (Individually)
 
 ## Question -1) What are Channels and Kernels?
-### Answer.)  I have written a blog explaining both these terms intuitively with images and here is the link 
+### Answer.)  I have written a blog explaining both these terms intuitively with images and here is the link. 
 
-Sneak peak from the article 
+Sneak peak from the article
+
+
+
+ 
 ![](https://github.com/rashutyagi/Deep_Vision/blob/master/Session_1/Image_1.PNG)
 
 ![](https://github.com/rashutyagi/Deep_Vision/blob/master/Session_1/Image_2.PNG)
