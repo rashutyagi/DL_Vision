@@ -1,4 +1,4 @@
-# Session-0-Assignment
+# Session 0
 
 Submitted by - Rashu Tyagi (Individually)
 
